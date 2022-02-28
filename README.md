@@ -19,7 +19,7 @@
    
    ## Installation 
    
-   The project was uploaded to GitHub at the following repository: https://github.com/malakhavam/team-profile 
+   The project was uploaded to GitHub at the following repository: https://github.com/malakhavam/team-profile <br/>
    To install the project follow these steps: 
    * Clone the application from GitHub with: git clone [clone link from GitHub] 
    * From the root folder, install the dependencies with: npm install, npm install inquirer
